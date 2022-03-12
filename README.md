@@ -1,5 +1,6 @@
 DVD Database
 Project Information
+
 The goal of this project is to export data from our primary database into a new aggregation. We should be able to answer some real-world business questions from reports generated using our newly aggregated data.
 
 The real-world business question that we want to answer with our reports is what are our best performing titles every month. The detailed aggregate section will contain all rentals placed with their rental date and rental price. Through this data we will be able generate a monthly top 10 with sum totals for each film.
